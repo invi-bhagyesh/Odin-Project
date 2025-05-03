@@ -1,0 +1,97 @@
+body {
+    font-family: Roboto, sans-serif;
+    background: #1F2937;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.header {
+    background: #1F2937;
+    display: flex;
+    color: white;
+    margin-bottom: 60px;
+    justify-content: space-between;
+
+}
+
+.box2 {
+    display: flex;
+}
+
+.content1 {
+    display: flex;
+    color: white;
+}
+
+.con1 {
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 14px;
+}
+
+.title2 {
+    color: black;
+    background: white;
+    text-align: center;
+    font-weight: 900;
+}
+
+.content2 {
+    background: white;
+    display: flex;
+    justify-content: center;
+}
+
+.BOX {
+    margin: 20px;
+}
+
+.content3 {
+    background: grey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.bluebox {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 8px;
+    padding: 40px 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.content4 {
+    background: white;
+
+
+}
+
+.footer {
+    color: white;
+    font-size: 10px;
+    text-align: center;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 24px;
+    padding: 40px;
+    text-align: center;
+    color: white
+}
+
+.signup2 {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 10px 24px;
+    border-radius: 8px;
+    font-size: 16px;
+}
